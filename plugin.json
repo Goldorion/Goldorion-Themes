@@ -1,10 +1,11 @@
 {
   "id": "goldorion-themes",
   "weight": 10,
-  "minversion": 202100199999,
+  "minversion": 202100223417,
   "info": {
     "name": "Goldorion's themes",
     "description": "Adds different new themes to personalize your MCreator",
-    "author": "Goldorion"
+    "author": "Goldorion",
+    "version": "1.0"
   }
 }
